@@ -1,1 +1,11 @@
-A project on computer vision solution for detecting and recognizing vehicle license plates using deep learning and optical character recognition (OCR).
+# Car-Number-Plates-Detection
+
+## Steps To Run Code
+1. Conda Create -p ./venv python=3.9 -y
+2. conda activate ./venv
+
+## Requirementx.txt install
+Pip install -r requirements.txt
+
+## Run File
+python number_plate.py
